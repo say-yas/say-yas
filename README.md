@@ -7,6 +7,7 @@ A physicist working mainly in the field of condensed matter physics!  My Email a
 
 <!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=say-yas&" alt="say-yas" /></p> -->
 
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=say-yas&label=Profile%20views&color=0e75b6&style=flat" alt="say-yas" /> </p> 
 
 <!-- 
