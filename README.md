@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Sharareh!👋</h1>
-<h3 align="center">A physicist working mainly in the field of condensed matter physics!</h3>
-<h3 align="center">Email: ssayyad.phys@gmail.com</h3>
+<h4 align="center">A physicist working mainly in the field of condensed matter physics!</h4>
+<h4 align="center">Email: ssayyad.phys@gmail.com</h4>
 
 
 
