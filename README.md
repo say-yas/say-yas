@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Sharareh!👋</h1>
 A physicist working mainly in the field of condensed matter physics!  
 
-My Email address: ssayyad.phys@gmail.com
+You can reach me at ssayyad.phys@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=say-yas&show_icons=true&locale=en&layout=compact" alt="say-yas" /></p>
 
