@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Sharareh!👋</h1>
+<h3 align="left">Hello, I am Sharareh!👋</h3>
 A physicist working mainly in the field of condensed matter physics!  
 
 You can reach me at s.sayyad@math.uni-goettingen.de
