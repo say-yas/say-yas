@@ -1,7 +1,7 @@
 <h3 align="left">Hello, I am Sharareh!👋</h3>
 I am a physicist working mainly in the field of condensed matter physics.  
 
-You can reach me at s.sayyad@math.uni-goettingen.de 
+You can reach me at ssayyad.phys@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=say-yas&show_icons=true&locale=en&layout=compact" alt="say-yas" /></p>
 
