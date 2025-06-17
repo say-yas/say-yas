@@ -1,5 +1,5 @@
 <h3 align="left">Hello, I am Sharareh!👋</h3>
-I am a physicist working mainly in the field of condensed matter physics.  
+I am a physicist currently working mainly in the intersection of physics, mathematics and computer science.  
 
 You can reach me at ssayyad.phys@gmail.com
 
