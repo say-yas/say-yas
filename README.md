@@ -1,7 +1,7 @@
 <h3 align="left">Hello, I am Sharareh!👋</h3>
 I am a physicist currently working mainly in the intersection of physics, mathematics and computer science.  
 
-You can reach me at ssayyad.phys@gmail.com
+You can reach me by email at ssayyad.phys@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=say-yas&show_icons=true&locale=en&layout=compact" alt="say-yas" /></p>
 
