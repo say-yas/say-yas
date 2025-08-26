@@ -11,6 +11,7 @@ You can reach me by email at ssayyad.phys@gmail.com
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=say-yas&label=Profile%20views&color=0e75b6&style=flat" alt="say-yas" /> </p> 
+ <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=say-yas&" alt="say-yas" /></p>
 
 <!-- 
 https://www.youtube.com/watch?v=G-EGDH50hGE
